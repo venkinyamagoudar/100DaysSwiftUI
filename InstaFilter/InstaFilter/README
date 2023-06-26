@@ -1,0 +1,35 @@
+
+# InstaFilter
+
+InstaFilter is an iOS app developed using SwiftUI that allows users to apply various image filters to their photos. It is based on the Instafilter project from Paul Hudson's 100 Days of SwiftUI course, with additional functionalities added to rotate the image clockwise and anticlockwise.
+
+## Features
+
+- Tap to select a picture from the photo library.
+- Apply filters such as Crystallize, Edges, Gaussian Blur, Pixellate, Sepia Tone, Unsharp Mask, Vignette, Comic Effect, and Bloom.
+- Adjust the intensity, radius, and scale of the selected filter.
+- Rotate the image clockwise or anticlockwise.
+- Save the edited image to the device's photo album.
+
+## Getting Started
+
+To run the InstaFilter app on your iOS device or simulator, follow these steps:
+
+1. Make sure you have Xcode installed on your Mac.
+2. Clone this repository or download the source code as a ZIP file.
+3. Open the project in Xcode by double-clicking the `InstaFilter.xcodeproj` file.
+4. Choose a simulator or connect your iOS device to your Mac.
+5. Build and run the project using the play button in the Xcode toolbar.
+
+## Dependencies
+
+The InstaFilter app uses the following dependencies:
+
+- SwiftUI: A framework for building user interfaces across all Apple platforms.
+- CoreImage: A framework for manipulating and filtering images and videos.
+- CoreImage.CIFilterBuiltins: A set of built-in filters provided by Core Image.
+- PhotosUI: A framework for accessing and managing the user's photo library.
+
+## Acknowledgements
+
+The InstaFilter app is based on the Instafilter project from Paul Hudson's 100 Days of SwiftUI course. Special thanks to Paul Hudson for the valuable learning resources.
