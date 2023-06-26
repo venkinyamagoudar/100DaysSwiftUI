@@ -58,11 +58,11 @@ By completing the **"100 Days of SwiftUI"** course projects, I have gained profi
 
 | Technology  |
 | ------------------ | 
-| SwiftUI            ![SwiftUI](https://example.com/swiftui_symbol.png)      |
-| Swift              ![Swift](https://example.com/swift_symbol.png)          |
-| Xcode              ![Xcode](https://example.com/xcode_symbol.png)          |
-| CoreData           ![CoreData](https://example.com/coredata_symbol.png)    |
-| CoreML             ![CoreML](https://example.com/coreml_symbol.png)        |
+| SwiftUI                  |
+| Swift                       |
+| Xcode                       |
+| CoreData             |
+| CoreML     |
 
 
 ## Acknowledgments 🙏
