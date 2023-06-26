@@ -1,4 +1,7 @@
-# 100 Days of SwiftUI Course
+# 100 Days of SwiftUI Course 
+<p align="center">
+  <img src="https://github.com/venkinyamagoudar/100DaysSwiftUI/blob/main/Resources/swiftui-badge.png" alt="Banner">
+</p>
 
 This repository contains the projects completed as part of the **"100 Days of SwiftUI"** course by Paul Hudson. The course focuses on teaching SwiftUI, Apple's modern framework for building user interfaces across all Apple platforms.
 
